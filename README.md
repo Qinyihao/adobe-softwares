@@ -1,3 +1,3 @@
 # adobe-softwares
 
-请查看[release界面](github.com/qinyihao/adobe-softwares/releases)
+请查看https://github.com/Qinyihao/adobe-softwares/releases 以获得最新的软件下载链接。
