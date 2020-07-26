@@ -1,0 +1,2 @@
+- name: Notify Telegram Action
+  uses: Lukasss93/telegram-action@v1.1
